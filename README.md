@@ -2,6 +2,7 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
+<a href="https://dashgo-rust-omega.vercel.app/users/create">Demo</a>
 
 > This project is a dashboard with chakra ui
 
