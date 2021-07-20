@@ -19,6 +19,13 @@ yarn install
 yarn run start
 ```
 
+### Screenshots
+
+<img src="./assets/login.png" width="400px" height="400px"/>
+<img src="./assets/dashboard.png" width="400px" height="400px"/>
+<img src="./assets/listagem.png" width="400px" height="400px"/>
+<img src="./assets/formulario.png" width="400px" height="400px"/>
+
 ## Author
 
 👤 **Luiz Carlos Rocha Correa**
